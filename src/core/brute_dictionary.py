@@ -1,5 +1,5 @@
 import time
-from core.hash_utils import hash_password, compare_hash
+from .hash_utils import hash_password, compare_hash
 
 def dictionary_attack(hash_target, dictionary_path, algo):
     start = time.time()
