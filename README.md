@@ -156,6 +156,24 @@ These features provide a natural roadmap for further cybersecurity skill growth.
 
 ---
 
+## Roadmap
+
+### v1 (current)
+- Incremental bruteforce
+- Dictionary attack
+- Time estimation
+- Pytest coverage
+
+### v2 (in progress)
+- Argon2 / bcrypt support
+- Realtime ETA & stats
+- Early stop audit mode
+
+### v3 (planned)
+- Password strength scoring
+- Multiprocessing engine
+
+
 ## 📄 License
 
 Released under the **MIT License**, for **ethical use only**.
